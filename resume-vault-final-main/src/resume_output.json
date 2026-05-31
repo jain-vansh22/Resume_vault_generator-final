@@ -1,0 +1,77 @@
+```json
+{
+  "candidate_name": "Vansh Jain",
+  "contact": {
+    "email": "ishant.sharma@email.com",
+    "phone": "+91-1234567890",
+    "linkedin": "https://linkedin.com/in/ishant-sharma",
+    "github": "https://github.com/ishant-sharma"
+  },
+  "summary": "Full-stack developer with experience building AI-integrated web applications and backend automation tools, with a strong focus on modern web architecture, proficient in Full-Stack development, AI, and Automation, with expertise in Backend and Frontend development",
+  "skills": [
+    "React",
+    "Next.js",
+    "Node.js",
+    "SQL",
+    "Python",
+    "Computer Vision",
+    "Data Structures & Algorithms",
+    "Blockchain",
+    "Smart Contracts",
+    "AI Integrations",
+    "Zoho SMTP",
+    "Automation",
+    "REST APIs"
+  ],
+  "experience": [
+    {
+      "company": "Content Repurposing Agency",
+      "title": "Founder & Full-Stack Developer",
+      "start_date": "2025-10",
+      "end_date": "Present",
+      "bullets": [
+        "Engineered a custom full-stack automation system using Node.js and Zoho SMTP, increasing operational efficiency",
+        "Automated cold outreach campaigns by parsing CSV lead lists and dynamically injecting client data into targeted email workflows, resulting in improved client engagement",
+        "Managed end-to-end client strategy and content delivery for B2B SaaS founders, enhancing the agency's overall performance"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "TrustRent",
+      "tech_stack": [
+        "Next.js",
+        "Blockchain",
+        "Smart Contracts",
+        "AI"
+      ],
+      "bullets": [
+        "Developed a secure property management ecosystem utilizing Blockchain and Smart Contracts to enforce tenant agreements, ensuring secure data handling",
+        "Integrated AI audits to automatically verify documents and streamline the onboarding process for landlords, improving user experience",
+        "Built a high-performance, server-side rendered frontend interface using Next.js, resulting in faster page loads"
+      ]
+    },
+    {
+      "name": "VoiceBridge",
+      "tech_stack": [
+        "AI",
+        "React",
+        "Node.js"
+      ],
+      "bullets": [
+        "Engineered a full-stack application for the Microsoft Imagine Cup to assist stroke survivors with speech rehabilitation, demonstrating expertise in AI-driven development",
+        "Integrated backend AI models to analyze user speech patterns and provide real-time therapeutic feedback, enhancing the application's effectiveness",
+        "Built responsive client-side UI components with React connected to a Node.js API layer, ensuring seamless user interaction"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "BMS Institute of Technology (BMSIT)",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "year": "2028"
+    }
+  ],
+  "certifications": []
+}
+```
